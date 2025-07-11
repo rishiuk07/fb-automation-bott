@@ -1,0 +1,18 @@
+[
+  {
+    "domain": ".facebook.com",
+    "httpOnly": true,
+    "name": "c_user",
+    "path": "/",
+    "secure": true,
+    "value": "100063478427717"
+  },
+  {
+    "domain": ".facebook.com",
+    "httpOnly": true,
+    "name": "xs",
+    "path": "/",
+    "secure": true,
+    "value": "30:a6S7U5KD8QzcJQ:2:1746076428:-1:-1::AcX_9VDaVtvNO22h3WwVvVitm8gMJUuuETZp28vtN8u6"
+  }
+]
